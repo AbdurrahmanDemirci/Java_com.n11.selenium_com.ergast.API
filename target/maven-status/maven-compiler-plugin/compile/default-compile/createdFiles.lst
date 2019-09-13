@@ -1,0 +1,6 @@
+FunctionalTestingTestSuites/Desktop/Regression/Scenarios/Fail/N11RegressionFail.class
+FunctionalTestingTestSuites/Utils/Properties/N11PropertyUtils.class
+FunctionalTestingTestSuites/Constant/N11WebConstants.class
+FunctionalTestingTestSuites/Desktop/Regression/Scenarios/Success/N11RegressionSuccess.class
+FunctionalTestingTestSuites/Desktop/Regression/Constant/N11RegressionConstant.class
+RestTest/RestAPITest.class
