@@ -2,8 +2,8 @@
 Selenium Test And Rest Assured Web API
 
 Proje içersinde gerçekleşen
-*Rest API Testi otomasyon (https://ergast.com/mrd/)
-*N11 WebDriver Testi otomasyon (https://www.n11.com)
+* Rest API Testi otomasyon (https://ergast.com/mrd/)
+* N11 WebDriver Testi otomasyon (https://www.n11.com)
 
 
 * Web Driver Test
